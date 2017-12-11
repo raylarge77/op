@@ -1,5 +1,7 @@
-# Lesson: Ansible
-In this lesson, we'll use Ansible to launch an EC2 instance, configure Docker on it, and run the Hellonode Docker image.
+# op
+
+# Code examples for OPG DevOps pre interview test
+The code  in this repository are for the OPG pre-interview test Q2.
 
 To begin, configure your AWS API keys:
 ```
